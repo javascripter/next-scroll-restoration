@@ -3,7 +3,7 @@
 A robust scroll restoration library for Next.js App Router that supports custom
 scrollable elements.
 
-# Purpose
+## Purpose
 
 Next Scroll Restoration solves the problem of preserving scroll positions for
 custom scrollable elements in Next.js applications, which is not natively
