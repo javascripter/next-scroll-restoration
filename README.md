@@ -5,7 +5,9 @@ scrollable elements.
 
 # Purpose
 
-Next Scroll Restoration solves the problem of preserving scroll positions for custom scrollable elements in Next.js applications, which is not natively supported by Next.js's built-in scroll restoration feature.
+Next Scroll Restoration solves the problem of preserving scroll positions for
+custom scrollable elements in Next.js applications, which is not natively
+supported by Next.js's built-in scroll restoration feature. Check out our [demo](https://next-scroll-restoration.vercel.app/) to see it in action.
 
 ## Features
 
