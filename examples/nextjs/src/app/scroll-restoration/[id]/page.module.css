@@ -1,0 +1,15 @@
+.main {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 6rem;
+  height: 100vh;
+  overflow: auto;
+}
+
+.content {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
