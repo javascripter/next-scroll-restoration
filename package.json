@@ -1,6 +1,6 @@
 {
   "name": "next-scroll-restoration",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
@@ -20,8 +20,6 @@
     }
   },
   "scripts": {
-    "prepare": "tsup --config tsup.config.prebuild.ts && tsup",
-    "postinstall": "tsup --config tsup.config.prebuild.ts && tsup",
     "prebuild": "tsup --config tsup.config.prebuild.ts",
     "build": "tsup",
     "test": "vitest"
